@@ -1,5 +1,5 @@
 
-# pythonlabs
+# Python Lab Activity: Debug Python Code
 Labs, examples and uses of python. 
 
 **Activity: Debug Python Code**
